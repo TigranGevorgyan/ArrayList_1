@@ -16,6 +16,7 @@ public class Main {
         arrayList.add(new Person("Mnacakan","Abajyan",20));
         arrayList.add(new Person("Hakob","Minoyan",5));
         arrayList.add(new Employee("Anna","Galstyan",36,200000));
+        arrayList.add(new Employee("Anna","Galstyan",36,200100));
         arrayList.add(new Employee("Lilit","Grigoryan",56,120000));
         arrayList.add(new Employee("Narine","Poxosyan",25,80000));
         arrayList.add(new Employee("Gvenik","Petrosyan",55,250000));
